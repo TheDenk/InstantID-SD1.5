@@ -22,7 +22,7 @@ Keypoints visualization:
 <p>
     <img src="./examples/demo/kp_example.png" width="480" height="360" title="kp_example"/>
 </p>
-It is also possible transfer different keypoints from other images.
+It is also possible to transfer different keypoints from other images.
 <p>
     <img src="./examples/demo/pose_example.png" width="960" height="360" title="pose_example"/>
 </p>
